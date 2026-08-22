@@ -70,50 +70,55 @@ The complete demonstrator is tested as a system.
 Each formal test should record:
 
 ```text
- Test Title
+ ## Test Structure
 
- Requirement
+Each formal test should record:
+
+
+# Test Title
+
+## Requirement
 
 What requirement is this test evaluating?
 
- Objective
+## Objective
 
 What should the test determine?
 
- Test Setup
+## Test Setup
 
 Describe the hardware and software configuration.
 
- Procedure
+## Procedure
 
 1.
 2.
 3.
 
- Expected Result
+## Expected Result
 
 What should happen if the system is operating correctly?
 
- Actual Result
+## Actual Result
 
 What actually happened?
 
- Measurements
+## Measurements
 
 Record relevant measurements.
 
-Pass / Fail
+## Pass / Fail
 
 **Result:** Not tested
 
-Problems
+## Problems
 
 Record any issues encountered.
 
- Conclusion
+## Conclusion
 
 Summarise the result.
 
- Follow-up
+## Follow-up
 
 Record any required changes or additional testing.
