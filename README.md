@@ -14,15 +14,19 @@ We work across a range of engineering and technology areas, including:
 
 ## Projects
 
-The club focuses on practical, student-built projects. Projects may range from small electronics and embedded systems builds to larger robotics and autonomous systems.
+The club focuses on practical, student-built engineering projects.
 
-As the club develops, this repository will contain project documentation, source code, designs, schematics and other resources.
+Projects may range from small electronics and embedded systems builds to larger robotics, autonomous systems and multidisciplinary engineering projects.
+
+As the club develops, this repository will contain project documentation, source code, designs, schematics, experiments and other technical resources.
 
 ## Get Involved
 
 The club is open to DkIT students interested in engineering, robotics and technology.
 
-You don't need to be an expert or have previous robotics experience. Projects are designed to give students opportunities to learn, experiment and build practical skills while working with others.
+You don't need to be an expert or have previous robotics experience. Projects are designed to give students opportunities to learn, experiment, develop practical engineering skills and work with others.
 
-Interested in joining or contributing? Get involved through the club at DkIT and help us build our first projects.
+Interested in joining or contributing?
+
+Get involved through the club at DkIT and help us build practical engineering projects.
 
