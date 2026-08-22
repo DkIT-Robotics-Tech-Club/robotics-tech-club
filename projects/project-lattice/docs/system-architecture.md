@@ -134,23 +134,23 @@ The physical arrangement may be modified based on experimental results.
 
 The system will be developed as separate subsystems before integration.
 
-### Stage 1 — Acoustic subsystem
+### Stage 1 - Acoustic subsystem
 
 Build and test the microphone array, signal acquisition and initial processing.
 
-### Stage 2 — Computer vision subsystem
+### Stage 2 - Computer vision subsystem
 
 Integrate the camera and develop the initial detection and tracking system.
 
-### Stage 3 — Direction and tracking
+### Stage 3 - Direction and tracking
 
 Develop acoustic direction estimation and visual tracking.
 
-### Stage 4 — Sensor fusion
+### Stage 4 - Sensor fusion
 
 Investigate methods for combining acoustic and visual measurements.
 
-### Stage 5 — Full integration
+### Stage 5 - Full integration
 
 Combine the subsystems into the physical demonstrator and evaluate the complete system.
 
