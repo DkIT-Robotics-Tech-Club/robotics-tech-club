@@ -217,3 +217,6 @@ The final selections will be transferred into:
 
 The BOM should only be updated after the team has agreed on the selected hardware.
 
+## Workflow Test
+
+This section is a temporary test of the Project Lattice contribution workflow.
