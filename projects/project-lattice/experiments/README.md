@@ -22,7 +22,7 @@ Experiments may investigate:
 - Target tracking
 - System performance
 
- Experiment Structure
+## Experiment Structure
 
 Each significant experiment should document:
 
@@ -38,55 +38,55 @@ Each significant experiment should document:
 - Conclusion
 - Recommended next steps
 
- Experiment Template
+## Experiment Template
 
 Each experiment should use the following structure:
 
 ```text
- Experiment Title
+# Experiment Title
 
- Objective
+## Objective
 
 What are we trying to find out?
 
- Question
+## Question
 
 What specific engineering question is being investigated?
 
- Hardware
+## Hardware
 
 - 
 
- Software
+## Software
 
 - 
 
- Test Setup
+## Test Setup
 
 Describe how the experiment is arranged.
 
- Procedure
+## Procedure
 
 1.
 2.
 3.
 
-Measurements
+## Measurements
 
 Record the measurements collected during the experiment.
 
- Results
+## Results
 
 Describe what happened and include relevant data, graphs or images.
 
- Problems
+## Problems
 
 Record unexpected results, failures or limitations.
 
- Conclusion
+## Conclusion
 
 What did the experiment show?
 
- Next Steps
+## Next Steps
 
 What should be changed, repeated or investigated next?
