@@ -6,11 +6,11 @@ A student-led technology club at Dundalk Institute of Technology focused on buil
 
 We work across a range of engineering and technology areas, including:
 
-* **Robotics** — autonomous systems, sensors, actuators and robotic platforms
-* **Electronics** — circuits, PCB design, embedded hardware and prototyping
-* **Embedded Systems** — microcontrollers, firmware, sensors and hardware/software integration
-* **Software** — programming, control systems, simulation and supporting applications
-* **Mechatronics** — combining mechanical, electrical and software systems to build complete projects
+* **Robotics** - autonomous systems, sensors, actuators and robotic platforms
+* **Electronics** - circuits, PCB design, embedded hardware and prototyping
+* **Embedded Systems** - microcontrollers, firmware, sensors and hardware/software integration
+* **Software** - programming, control systems, simulation and supporting applications
+* **Mechatronics** - combining mechanical, electrical and software systems to build complete projects
 
 ## Projects
 
